@@ -2,14 +2,14 @@
   box-sizing: border-box;
 }
 
-header {
+/* header {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 1%;
   background-color: darkblue;
   color: white;
-}
+} */
 
 nav ul {
   display: flex;
@@ -217,3 +217,8 @@ h6 {
   }
 
 }
+
+/* .navbar-collapse{
+  justify-content: flex-end;
+
+} */
